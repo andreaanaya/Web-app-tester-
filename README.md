@@ -36,7 +36,6 @@ mobile-ui-pwa/
     ├── option-a.jpg
     └── option-b.jpg
 
-
 ## Running the project
 
 Because this project uses a Service Worker, it must be served from a local server.
