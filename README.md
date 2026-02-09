@@ -26,7 +26,8 @@ This project focuses on:
 - PWA (Web App Manifest + Service Worker)
 
 ## Project Structure
-mobile-ui-pwa/
+```
+ mobile-ui-pwa/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -35,6 +36,7 @@ mobile-ui-pwa/
 └── img/
     ├── option-a.jpg
     └── option-b.jpg
+```
 
 ## Running the project
 
