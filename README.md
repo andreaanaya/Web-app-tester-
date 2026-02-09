@@ -33,8 +33,8 @@ mobile-ui-pwa/
 ├── manifest.json
 ├── service-worker.js
 └── img/
-├── option-a.jpg
-└── option-b.jpg
+    ├── option-a.jpg
+    └── option-b.jpg
 
 
 ## Running the project
